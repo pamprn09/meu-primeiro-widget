@@ -45,9 +45,6 @@ class Meu_Primeiro_Widget extends Widget_Base{
 			]
 		);
 
-
-                $this->add_control();
-
 		$this->end_controls_section();
   }
 
