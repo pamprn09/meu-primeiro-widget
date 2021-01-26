@@ -1,6 +1,6 @@
 # Passo a passo
 ## 1- Instale o Elementor
-Caso não tenha o plugin do Elementor instalado você pode fazê-lo diretamente na sessão de plugins do WordPress. Ou se preferir faça o download aqui.
+Caso não tenha o plugin do Elementor instalado você pode fazê-lo diretamente na sessão de plugins do WordPress. Ou se preferir faça o download [aqui](https://br.wordpress.org/plugins/elementor/).
 ## 2- Crie e estrutute os arquivos que serão utilizados
 Na pasta do seu tema (preferencialmente no tema filho) crie os seguintes arquivos:
 
