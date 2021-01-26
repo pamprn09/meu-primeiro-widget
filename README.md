@@ -59,6 +59,7 @@ Cada widget prescisa de alguns itens básicos tais como:
 * Ìcone para o catálogo do Elementor
 ```
 <?php class Meu_Primeiro_Widget extends \Elementor\Widget_Base {
+     public function get_name(){}	
      public function get_title() {}
      public function get_icon() {}
      public function get_categories() {}
