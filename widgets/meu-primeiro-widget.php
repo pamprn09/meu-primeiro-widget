@@ -54,13 +54,15 @@ class Meu_Primeiro_Widget extends Widget_Base{
   //PHP Render
   protected function render() {
 		$settings = $this->get_settings_for_display();
-		echo $settings['custom_html'];
+  ?>
+    <div><?php echo $settings['titulo']; ?></div>
+  <?php
   }
   
   //JS RENDER
   protected function _content_template() {
 		?>
-		{{{ settings.custom_html }}}
+		<div>{{{ settings.titulo }}}</div>
 		<?php
 	}
 }
