@@ -52,7 +52,7 @@ class Imagem_Video extends Widget_Base{
 					'icon' => 'fa fa-video',
 				],
 			],
-			'default' => 'left',
+			'default' => 'image',
 			'toggle' => true,
 		]
 	);
